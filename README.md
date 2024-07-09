@@ -21,7 +21,7 @@ Running the setup
 
 Go to CMakeLists.txt, <kbd>CTRL + S</kbd> to make sure the solution was built.
 
-Then, from this dropdown select mygameSFML.exe
+Then, from this dropdown select mygame.exe
 
 <img src="https://raw.githubusercontent.com/meemknight/photos/master/llge3.gif" width="200">
 
