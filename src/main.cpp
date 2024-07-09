@@ -60,8 +60,8 @@ int main(void)
 	//imguiThemes::yellow();
 	//imguiThemes::gray();
 	//imguiThemes::green();
-	//imguiThemes::red();
-	imguiThemes::embraceTheDarkness();
+	imguiThemes::red();
+	//imguiThemes::embraceTheDarkness();
 
 	ImGuiIO &io = ImGui::GetIO(); (void)io;
 	io.ConfigFlags |= ImGuiConfigFlags_NavEnableKeyboard;
