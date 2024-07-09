@@ -7,6 +7,8 @@
 I already setup GLFW + GLAD + IMGUI + GLM + (sound (raudio) and networking (ENet) libraries) for you! 
 Take it and enjoy! You don't need to know CMake!
 
+![image](https://github.com/meemknight/GLFWCMakeSetup/assets/36445656/79e122b9-a77b-4711-bbbe-138a071f3e91)
+
 <p>Opening the Solution:</p> 
 
 <img src="https://raw.githubusercontent.com/meemknight/photos/master/llge1.gif" width="350">
