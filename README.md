@@ -2,6 +2,10 @@
 
 ---
 
+## Tutorial 
+
+https://www.youtube.com/watch?v=FrVABOhRyQg
+
 ## What is it?
 
 I already setup GLFW + GLAD + IMGUI + GLM + (sound (raudio) and networking (ENet) libraries) for you! 
